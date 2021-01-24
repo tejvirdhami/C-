@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main() {
+    // declare and initialize an array
+    int x[] = {19, 10, 8, 17, 9, 15};
+    
+    std::cout << "Hello, world!" << " " << x[2];
+    return 0;
+}
